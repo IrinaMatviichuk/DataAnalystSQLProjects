@@ -38,3 +38,17 @@ SQL, BigQuery, Query Optimization, CTEs, JOINs, Aggregation, Performance Analysi
 
 **Key result:**
 Reduced elapsed time from 3.44 sec to 1.06 sec and bytes shuffled from 57.57 MB to 354 B.
+
+### 03. Monthly Email Account Share View
+
+Creates a BigQuery view that calculates each account’s share of total sent emails within a month, including first and last email activity dates.
+
+**Skills:**
+SQL, BigQuery, CREATE VIEW, CTEs, Aggregation, Date Functions
+
+**Key metrics:**
+
+* monthly sent email share by account
+* first sent date
+* last sent date
+
