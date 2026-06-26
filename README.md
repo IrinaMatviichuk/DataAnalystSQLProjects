@@ -28,3 +28,13 @@ SQL, BigQuery, CTEs, JOINs, UNION ALL, Window Functions, Looker Studio
 * opened emails
 * email visits
 * country rankings
+
+### 02. Email Metrics Query Optimization
+
+Optimized a BigQuery SQL query for calculating email engagement metrics by operating system.
+
+**Skills:**
+SQL, BigQuery, Query Optimization, CTEs, JOINs, Aggregation, Performance Analysis
+
+**Key result:**
+Reduced elapsed time from 3.44 sec to 1.06 sec and bytes shuffled from 57.57 MB to 354 B.
