@@ -52,3 +52,19 @@ SQL, BigQuery, CREATE VIEW, CTEs, Aggregation, Date Functions
 * first sent date
 * last sent date
 
+### 04. Revenue by Device and Continent Analysis
+
+Analyzes revenue distribution across continents and devices while combining session, account, and verification metrics.
+
+**Skills:**
+SQL, BigQuery, CTEs, JOINs, Conditional Aggregation, Window Functions
+
+**Key metrics:**
+
+* total revenue
+* mobile revenue
+* desktop revenue
+* revenue share by continent
+* account count
+* verified account count
+* session count
